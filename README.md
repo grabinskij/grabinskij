@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a Web Developer based in Brandenburg, Germany, who lov
 
 * 🌍  I'm based in Germany, Brandenburg
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-v2-web.vercel.app)
-* ✉️  You can contact me at [bogdan.grabinskij@gmail.com](mailto:bogdan.grabinskij@gmail.com)
+* ✉️  You can contact me at [hrabynskyi.dev@gmail.com](mailto:hrabynskyi.dev@gmail.com)
 * 🚀  I'm currently working on [ToDoNest](http://github.com/grabinskij/ToDoNest)
 * 🤝  I'm open to collaborating on I’m interested in working on cool projects or chatting about the big ideas behind coding.
 
