@@ -1,7 +1,7 @@
 Hi 👋 My name is Bohdan Hrabynskyi
 ==================================
 
-Welcome to my GitHub! I'm a Web Developer based in Brandenburg, Germany, who loves turning ideas into functional and user-friendly web applications. Whether I’m fine-tuning the front-end or diving into back-end and mobile development, I’m always eager to learn and grow. Exploring new technologies and improving my skills with each project is what keeps me excited about coding!
+Welcome to my GitHub! I’m a Web Developer who enjoys bringing ideas to life with functional and user-friendly web applications. I’m always excited to learn and explore, whether it’s improving the front-end, tackling back-end challenges, or diving into mobile development. Exploring new technologies and improving my skills with each project is what keeps me excited about coding!
 
 * 🌍  I'm based in Germany, Brandenburg
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-v2-web.vercel.app)
